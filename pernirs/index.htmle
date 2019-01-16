@@ -1,0 +1,40 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title>Per Nirs</title>
+ 	<meta name="author" content="Pontus Löf">
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+	<link rel="stylesheet" type="text/css" href="stil.css">
+</head>
+<body>
+<div id="sprak"><a href="english.html"><img src="bilder/sprak_engelska.gif" width="25" height="15" border="0" alt="In English"></a></div>
+<div id="sidkropp">
+<img src="bilder/top.gif" width="750" height="101" alt="Per Nirs bomärke" border="0">
+<div id="meny">
+<hr class="meny" noshade size="1">
+<a href="historia.html" title="Läs om gårdens historia som sträcker sig tillbaka till början av 1600-talet" class="meny1">Historia</a>
+<hr class="meny" noshade size="1">
+<a href="viktigaartal.html" title="För att få en överblick över gårdens drygt 400-åriga historia kan det vara värt att ta en titt på en tidslinje med viktiga händelser." class="meny1">Viktiga årtal</a>
+<hr class="meny" noshade size="1">
+<a href="slakttrad.html" title="Namn och årtal för släkt och ättlingar" class="meny1">Släktträd</a>
+<hr class="meny" noshade size="1">
+<a href="index.html" title="Galleri med bilder som rör gården" class="meny1">Bildarkiv</a>
+<hr class="meny" noshade size="1">
+<a href="index.html" title="Läs om hur folk har levt på gården" class="meny1">Dagböcker</a>
+<hr class="meny" noshade size="1">
+<a href="index.html" title="Skriv en kommentar eller läs andras kommentarer" class="meny1">Gästbok</a>
+<hr class="meny" noshade size="1">
+<a href="index.html" title="Om vem som står bakom denna sida" class="meny1">Om hemsidan</a>
+<hr class="meny" noshade size="1">
+</div>
+<div id="text">
+<h1>Välkommen!</h1>
+<p>Du har kommit till hemsidan för Per Nirs, en gård belägen i byn Dalkarlsbo i södra Gästrikland. I tretton generationer har gården bebotts av samma släkt. Här kan du läsa om Per Nirs historia sedan etableringen år 1607.</p>
+<br>
+<img src="bilder/frontbild.gif" width="550" height="305" border="0" alt="Flygfoto på gården Per Nirs, taget 1996"><br>
+<div id="sidfot"><a href="mailto:bengt@lof.nu">Bengt Löf</a> &copy; 2008</div>
+</div></div>
+</body>
+</html>

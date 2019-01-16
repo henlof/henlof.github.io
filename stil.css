@@ -1,0 +1,38 @@
+body {
+	background-image:url('bgskog.jpg');
+	}
+a {
+	color: #6c8e1c;
+	font-weight: bold;
+	}
+a:Visited {
+	color: #6c8e1c;
+	}
+a:Active {
+	color: #6c8e1c;
+	}
+a:Hover {
+	color: #705b14;
+	}
+h1 {
+	font-size: 16pt;
+	font-family: Georgia, Times New Roman, serif;
+	color: #705b14;
+	margin-bottom: 15px;
+}
+h2 {
+	font-size: 11pt;
+}
+#sidkropp{
+	background-color: #d3dcb1;
+	padding:30px;
+    margin-top: 120px;
+    margin-left: auto;
+    margin-right: auto;
+   	width: 430px;
+	border: 3px solid #705b14;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	line-height: 150%;
+	color: #705b14;
+}
