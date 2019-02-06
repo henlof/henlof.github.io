@@ -363,7 +363,7 @@ function initLightbox()
 	// create link
 	var objLink = document.createElement("a");
 	objLink.setAttribute('href','#');
-	objLink.setAttribute('title','Klicka för att stänga');
+	objLink.setAttribute('title','Klicka fÃ¶r att stÃ¤nga');
 	objLink.onclick = function () {hideLightbox(); return false;}
 	objLightbox.appendChild(objLink);
 
@@ -404,7 +404,7 @@ function initLightbox()
 	// create keyboard message
 	var objKeyboardMsg = document.createElement("div");
 	objKeyboardMsg.setAttribute('id','keyboardMsg');
-	objKeyboardMsg.innerHTML = '<a href="#" onclick="hideLightbox(); return false;"><kbd>STÄNG</kbd></a>';
+	objKeyboardMsg.innerHTML = '<a href="#" onclick="hideLightbox(); return false;"><kbd>STÃ„NG</kbd></a>';
 	objLightboxDetails.appendChild(objKeyboardMsg);
 
 
